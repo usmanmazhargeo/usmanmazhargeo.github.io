@@ -1,0 +1,4 @@
+title Usman Mazhar's CV
+description Personal CV using Jekyll
+baseurl my-cv # Replace with your repository name if hosted on GitHub Pages
+url httpsyourusername.github.io # Replace with your GitHub Pages URL
